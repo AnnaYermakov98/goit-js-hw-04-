@@ -1,4 +1,4 @@
-isEnoughCapacity(products, containerSize) {
+function isEnoughCapacity(products, containerSize) {
 
 }
 

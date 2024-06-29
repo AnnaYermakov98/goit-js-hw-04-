@@ -1,4 +1,4 @@
-calcAverageCalories(days) {
+function calcAverageCalories(days) {
 
 }
 
